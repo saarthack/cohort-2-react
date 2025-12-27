@@ -1,7 +1,5 @@
-var form = document.querySelector('form')
+var arr = [10,20,30,40]
 
+arr.splice(0,4)
 
-form.addEventListener('submit',function(e){
-    console.log('submitted');
-    
-})
+console.log(arr);
