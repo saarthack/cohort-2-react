@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+body{
+  background-color: black;
+  padding: 20px;
+}
+.card{
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+.upper{
+  height: 50%;
+  width: 100%;
+}
+.upper img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.lower{
+  height: 50%;
+  width: 100%;
+  padding: 20px;
+}
+.lower h2{
+  color: rgb(26, 89, 89);
+  font-size: 48px;
+}
+
+.lower h4{
+  font-size: 18px;
+  font-weight: 500;
+  color: #888;
+}
+
+.lower h3{
+  font-size: 32px;
+  color: black;
+  margin-top: 30px;
+    color: rgb(26, 89, 89);
+
+}
