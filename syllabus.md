@@ -10,10 +10,10 @@
 10. useState hook ✅
 11. Form Handling✅
 12. Two way Binding✅
-13. Basic Todo
-14. Basic Todo through multiple components
-15. LocalStorage
-16. Basic Todo through multiple components and localstorage
+13. Basic Todo✅
+14. Basic Todo through multiple components✅
+15. LocalStorage✅
+16. Basic Todo through multiple components and localstorage✅
 17. API handling (Axios)
 18. useEffect
 19. Gallery Project
