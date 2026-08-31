@@ -14,9 +14,9 @@
 14. Basic Todo through multiple components✅
 15. LocalStorage✅
 16. Basic Todo through multiple components and localstorage✅
-17. API handling (Axios)
-18. useEffect
-19. Gallery Project
+17. API handling (Axios)✅
+18. useEffect✅
+19. Gallery Project✅
 20. useRef
 21. React Router DOM
 22. Project with it
